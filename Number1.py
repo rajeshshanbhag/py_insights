@@ -9,4 +9,3 @@ print (5**0.5)          # root
 print (5+2*2+5)
 print ((5+2)*(2+5))
 print(6-5.7)                # floating num
-print(15+5)
