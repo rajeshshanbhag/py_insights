@@ -12,3 +12,4 @@ print(6-5.7)                # floating num
 print(20+7)
 print(20-5)
 print("first")
+print("second")
