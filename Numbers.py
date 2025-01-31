@@ -11,3 +11,4 @@ print ((5+2)*(2+5))
 print(6-5.7)                # floating num
 print(20-5)
 print("second")
+print("third")
