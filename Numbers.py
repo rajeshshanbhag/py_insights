@@ -18,5 +18,8 @@ print("third")
 print("fourth")
 print("sixth")
 print("seven")
+<<<<<<< HEAD
 print("rebase main")
+=======
+>>>>>>> a8a2e59d8cfca69a8b60c4cfb70fa95875c11a05
 print("rebase")
