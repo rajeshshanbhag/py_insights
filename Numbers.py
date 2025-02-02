@@ -30,4 +30,4 @@ x=input("your name")
 if x=="":
     print("enter name")
 else:
-    print("thanks and goodbye")
+    print("thanks and goodbye and see you")
