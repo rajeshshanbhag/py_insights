@@ -26,7 +26,7 @@ print("a different line")
 print("test rebase")
 print("21")
 print("44")
-print("51")
+print("71")
 
 x=input("your name")
 if x=="":
