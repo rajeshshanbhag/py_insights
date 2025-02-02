@@ -23,3 +23,9 @@ print("rebase")
 print("change to main - test rebase")
 print("change to 4, test rebase")
 print("a different line")
+
+x=input("your name")
+if x=="":
+    print("enter name")
+else:
+    print("thanks")
